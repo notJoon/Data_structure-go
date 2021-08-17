@@ -5,6 +5,6 @@ golang data structure
 <br>
 <h2>Contents</h2>
 <ul>
-  <il>Heaps</li>
+  <li>Heaps</li>
   <li>Stack and Queue</li>
 </ul>
