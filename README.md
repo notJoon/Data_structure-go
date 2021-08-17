@@ -8,4 +8,9 @@ golang data structure
     <li>Heaps</li>
     <li>Stack and Queue</li>
   </ul>
+  <h2>Heaps</h2>
+  
+  <h2>Stack</h2>
+  
+  <h2>Queue</h2>
 </body>
